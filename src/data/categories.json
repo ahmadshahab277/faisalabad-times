@@ -1,0 +1,42 @@
+[
+  {
+    "id": "concerts",
+    "label": "Concerts",
+    "description": "Live sets and night programmes, mostly outdoors along Canal Road."
+  },
+  {
+    "id": "workshops",
+    "label": "Workshops",
+    "description": "Hands-on afternoons, from cloth and tools on Chen One Road to export paperwork."
+  },
+  {
+    "id": "business",
+    "label": "Business",
+    "description": "Summits, breakfasts, and founder tables for people who work in the city."
+  },
+  {
+    "id": "food",
+    "label": "Food & Lifestyle",
+    "description": "Lawn festivals, one-night kitchens, and evening bazaars."
+  },
+  {
+    "id": "sports",
+    "label": "Sports",
+    "description": "Cricket on D-Ground and evening futsal by the canal."
+  },
+  {
+    "id": "family",
+    "label": "Family",
+    "description": "Fairs and story hours you can take children to."
+  },
+  {
+    "id": "education",
+    "label": "Education",
+    "description": "Talks and student programmes around the university area on Susan Road."
+  },
+  {
+    "id": "community",
+    "label": "Community",
+    "description": "Walks and open gatherings that start near the Clock Tower."
+  }
+]

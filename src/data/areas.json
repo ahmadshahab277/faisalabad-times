@@ -1,0 +1,9 @@
+[
+  { "id": "d-ground", "label": "D-Ground" },
+  { "id": "canal-road", "label": "Canal Road" },
+  { "id": "clock-tower", "label": "Clock Tower" },
+  { "id": "kohinoor-city", "label": "Kohinoor City" },
+  { "id": "lyallpur-galleria", "label": "Lyallpur Galleria" },
+  { "id": "chen-one-road", "label": "Chen One Road" },
+  { "id": "university", "label": "University area" }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "d-ground",
+    "slug": "d-ground",
+    "name": "D-Ground Lawn",
+    "area": "d-ground",
+    "areaLabel": "D-Ground",
+    "address": "D-Ground, Civil Lines, Faisalabad",
+    "summary": "The open ground in Civil Lines. Sample listings use it for festivals and daytime sport.",
+    "image": "/images/cricket-play.jpg",
+    "capacity": "Open lawn"
+  },
+  {
+    "id": "canal",
+    "slug": "canal-road-amphitheatre",
+    "name": "Canal Road Amphitheatre",
+    "area": "canal-road",
+    "areaLabel": "Canal Road",
+    "address": "Along Canal Road, Faisalabad",
+    "summary": "A demo outdoor stage beside Canal Road for music nights and evening bazaars.",
+    "image": "/images/concert2.jpg",
+    "capacity": "1,200 standing"
+  },
+  {
+    "id": "clock",
+    "slug": "clock-tower-lawn",
+    "name": "Clock Tower Lawn",
+    "area": "clock-tower",
+    "areaLabel": "Clock Tower",
+    "address": "Near Ghanta Ghar, Faisalabad",
+    "summary": "A meeting lawn beside the Clock Tower, used in this demo for walks and family programmes.",
+    "image": "/images/camera.jpg",
+    "capacity": "Lawn gathering"
+  },
+  {
+    "id": "kohinoor",
+    "slug": "kohinoor-convention-hall",
+    "name": "Kohinoor Convention Hall",
+    "area": "kohinoor-city",
+    "areaLabel": "Kohinoor City",
+    "address": "Kohinoor City, Faisalabad",
+    "summary": "A seated hall inside Kohinoor City for summits, breakfasts, and day-long briefings.",
+    "image": "/images/hall.jpg",
+    "capacity": "400 seated"
+  },
+  {
+    "id": "galleria",
+    "slug": "lyallpur-galleria",
+    "name": "Lyallpur Galleria Atrium",
+    "area": "lyallpur-galleria",
+    "areaLabel": "Lyallpur Galleria",
+    "address": "Lyallpur Galleria, Faisalabad",
+    "summary": "The atrium at Lyallpur Galleria. Sample listings place exhibitions, pop-ups, and story hours here.",
+    "image": "/images/expo.jpg",
+    "capacity": "Atrium"
+  },
+  {
+    "id": "chenone",
+    "slug": "chen-one-exhibition-hall",
+    "name": "Chen One Exhibition Hall",
+    "area": "chen-one-road",
+    "areaLabel": "Chen One Road",
+    "address": "Chen One Road, Faisalabad",
+    "summary": "A working hall on Chen One Road for textile workshops and small business clinics.",
+    "image": "/images/workshop.jpg",
+    "capacity": "80 seated"
+  },
+  {
+    "id": "faisalabad-live",
+    "slug": "faisalabad-live",
+    "name": "Live concert",
+    "area": "d-ground",
+    "areaLabel": "Faisalabad",
+    "address": "Faisalabad",
+    "summary": "The live concert poster names the city. It does not print a hall.",
+    "image": "/images/concert-zafar.jpg",
+    "capacity": "Live concert"
+  },
+  {
+    "id": "golden-bowl",
+    "slug": "golden-bowl",
+    "name": "Golden Bowl",
+    "area": "canal-road",
+    "areaLabel": "Canal Road",
+    "address": "Green Mall, East Canal Road, Faisalabad",
+    "summary": "The dining room on East Canal Road. The Spotlight Show is staged here.",
+    "image": "/images/spotlight-show.jpg",
+    "capacity": "Dining room"
+  },
+  {
+    "id": "university",
+    "slug": "susan-road-lecture-theatre",
+    "name": "Susan Road Lecture Theatre",
+    "area": "university",
+    "areaLabel": "University area",
+    "address": "Susan Road university area, Faisalabad",
+    "summary": "A demo lecture room off Susan Road for talks and founder meetups. Not an official campus booking.",
+    "image": "/images/office.jpg",
+    "capacity": "120 seated"
+  }
+]
